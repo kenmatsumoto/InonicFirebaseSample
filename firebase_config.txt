@@ -1,0 +1,8 @@
+var config = {
+    apiKey: "AIzaSyDqhYkuzS5Y2uQWSibvVv1tVVVqTRC04gY",
+    authDomain: "ionic2do-98a4b.firebaseapp.com",
+    databaseURL: "https://ionic2do-98a4b.firebaseio.com",
+    projectId: "ionic2do-98a4b",
+    storageBucket: "ionic2do-98a4b.appspot.com",
+    messagingSenderId: "447499146084"
+  };
